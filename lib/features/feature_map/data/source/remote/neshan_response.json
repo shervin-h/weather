@@ -1,0 +1,328 @@
+{
+  "routes": [
+    {
+      "overview_polyline": {
+        "points": "}cfyEsgwyHvByDdFdEgClJiBrCA\\p@f@gZlmAhYzLeFjSeDwAwSpz@aEhUGlEn@jRsLmAsDqA"
+      },
+      "legs": [
+        {
+          "summary": "نارنجستان جنوبی - استقلال",
+          "distance": {
+            "value": 4758.0,
+            "text": "۵ کیلومتر"
+          },
+          "duration": {
+            "value": 675.0,
+            "text": "۱۱ دقیقه"
+          },
+          "steps": [
+            {
+              "name": "نسترن یکم",
+              "instruction": "در جهت جنوب غربی در نسترن یکم قرار بگیرید",
+              "bearing_after": 217,
+              "type": "depart",
+              "distance": {
+                "value": 110.0,
+                "text": "۱۲۵ متر"
+              },
+              "duration": {
+                "value": 47.0,
+                "text": "۱ دقیقه"
+              },
+              "polyline": "}cfyEsgwyH@BtB}D",
+              "start_location": [
+                51.570016,
+                35.753754
+              ]
+            },
+            {
+              "name": "سروستان دوم",
+              "instruction": "به سمت سروستان دوم، به راست بپیچید",
+              "bearing_after": 215,
+              "type": "turn",
+              "modifier": "right",
+              "distance": {
+                "value": 158.0,
+                "text": "۱۷۵ متر"
+              },
+              "duration": {
+                "value": 65.0,
+                "text": "۱ دقیقه"
+              },
+              "polyline": "e`fyEmmwyH`@\\FFv@p@vArADDXTJA",
+              "start_location": [
+                51.570951,
+                35.753151
+              ]
+            },
+            {
+              "name": "نارنجستان جنوبی",
+              "instruction": "به راست بپیچید و وارد نارنجستان جنوبی شوید",
+              "bearing_after": 293,
+              "type": "end of road",
+              "modifier": "right",
+              "distance": {
+                "value": 250.0,
+                "text": "۲۷۵ متر"
+              },
+              "duration": {
+                "value": 103.0,
+                "text": "۲ دقیقه"
+              },
+              "polyline": "_yeyEggwyHuAbFEPYjAQj@OROTg@~@EH",
+              "start_location": [
+                51.569964,
+                35.752001
+              ]
+            },
+            {
+              "name": "دانشگاه",
+              "instruction": "در دانشگاه، از خروجیِ دوم، خارج شوید",
+              "bearing_after": 326,
+              "type": "roundabout",
+              "modifier": "straight",
+              "exit": 2,
+              "distance": {
+                "value": 42.0,
+                "text": "۴۲ متر"
+              },
+              "duration": {
+                "value": 17.0,
+                "text": "کمتر از ۱ دقیقه"
+              },
+              "polyline": "u_fyEexvyHIDGHINAH?FAD@D@@@BDB",
+              "start_location": [
+                51.567552,
+                35.753073
+              ]
+            },
+            {
+              "name": "",
+              "instruction": "به مسیر خود ادامه دهید",
+              "bearing_after": 210,
+              "type": "exit roundabout",
+              "modifier": "straight",
+              "exit": 2,
+              "distance": {
+                "value": 26.0,
+                "text": "۲۶ متر"
+              },
+              "duration": {
+                "value": 11.0,
+                "text": "کمتر از ۱ دقیقه"
+              },
+              "polyline": "i`fyE}uvyHf@\\",
+              "start_location": [
+                51.567194,
+                35.753169
+              ]
+            },
+            {
+              "name": "دویست و چهل و چهارم",
+              "instruction": "به سمت دویست و چهل و چهارم، به راست بپیچید",
+              "bearing_after": 292,
+              "type": "turn",
+              "modifier": "right",
+              "distance": {
+                "value": 653.0,
+                "text": "۶۷۵ متر"
+              },
+              "duration": {
+                "value": 62.0,
+                "text": "۱ دقیقه"
+              },
+              "polyline": "a_fyE_uvyHgAlEgAnEiAnEcAbECLgAjEOl@q@vC[vA?F",
+              "start_location": [
+                51.567044,
+                35.75297
+              ]
+            },
+            {
+              "name": "شهید صفایی فراهانی",
+              "instruction": "در شهید صفایی فراهانی به مسیر خود ادامه دهید",
+              "bearing_after": 292,
+              "type": "new name",
+              "modifier": "straight",
+              "distance": {
+                "value": 582.0,
+                "text": "۶۰۰ متر"
+              },
+              "duration": {
+                "value": 62.0,
+                "text": "۱ دقیقه"
+              },
+              "polyline": "imfyEmkuyHkBpHkBlHcB~GcBzG",
+              "start_location": [
+                51.560394,
+                35.755251
+              ]
+            },
+            {
+              "name": "بختیاری",
+              "instruction": "به سمت بختیاری، به چپ بپیچید",
+              "bearing_after": 202,
+              "type": "turn",
+              "modifier": "left",
+              "distance": {
+                "value": 508.0,
+                "text": "۵۲۵ متر"
+              },
+              "duration": {
+                "value": 64.0,
+                "text": "۱ دقیقه"
+              },
+              "polyline": "izfyEqftyHhCfAhChArAj@rF~BLFjAf@rClA",
+              "start_location": [
+                51.554489,
+                35.757327
+              ]
+            },
+            {
+              "name": "دویست و سی و شش شرقی",
+              "instruction": "به سمت دویست و سی و شش شرقی، به راست بپیچید",
+              "bearing_after": 292,
+              "type": "turn",
+              "modifier": "right",
+              "distance": {
+                "value": 321.0,
+                "text": "۳۲۵ متر"
+              },
+              "duration": {
+                "value": 92.0,
+                "text": "۲ دقیقه"
+              },
+              "polyline": "_`fyEuxsyHqBbIiBjHIZ",
+              "start_location": [
+                51.552266,
+                35.75312
+              ]
+            },
+            {
+              "name": "بلوار سید علی روته",
+              "instruction": "به راست بپیچید و وارد بلوار سید علی روته شوید",
+              "bearing_after": 22,
+              "type": "end of road",
+              "modifier": "right",
+              "distance": {
+                "value": 87.0,
+                "text": "۱۰۰ متر"
+              },
+              "duration": {
+                "value": 14.0,
+                "text": "کمتر از ۱ دقیقه"
+              },
+              "polyline": "egfyEidsyHEAiCiA",
+              "start_location": [
+                51.549007,
+                35.754272
+              ]
+            },
+            {
+              "name": "استقلال",
+              "instruction": "به سمت استقلال، به چپ بپیچید",
+              "bearing_after": 22,
+              "type": "turn",
+              "modifier": "left",
+              "distance": {
+                "value": 1667.0,
+                "text": "۲ کیلومتر"
+              },
+              "duration": {
+                "value": 164.0,
+                "text": "۳ دقیقه"
+              },
+              "polyline": "ukfyEufsyHUKGTc@dBmAtECLK\\cA`EWbAIViBfHiBjHI\\I^QjA[vBMz@I^M\\g@vAUp@ELM^GTQv@q@rD}@zEYxA_@jBCRId@Ix@GfA?|@?fAJrCBt@`@jH@l@?NCv@",
+              "start_location": [
+                51.549389,
+                35.754994
+              ]
+            },
+            {
+              "name": "گلستان (جاده شهرک امید)",
+              "instruction": "در میدان امید، از خروجی اول، خارج شوید",
+              "rotaryName": "میدان امید",
+              "bearing_after": 305,
+              "type": "rotary",
+              "modifier": "slight right",
+              "exit": 1,
+              "distance": {
+                "value": 3.0,
+                "text": "۳ متر"
+              },
+              "duration": {
+                "value": 0.0,
+                "text": ""
+              },
+              "polyline": "}egyEk{oyHAB",
+              "start_location": [
+                51.532223,
+                35.759185
+              ]
+            },
+            {
+              "name": "",
+              "instruction": "به مسیر خود ادامه دهید",
+              "bearing_after": 358,
+              "type": "exit rotary",
+              "modifier": "right",
+              "exit": 1,
+              "distance": {
+                "value": 180.0,
+                "text": "۲۰۰ متر"
+              },
+              "duration": {
+                "value": 34.0,
+                "text": "۱ دقیقه"
+              },
+              "polyline": "_fgyEg{oyHaA@UCiBU_C]",
+              "start_location": [
+                51.532196,
+                35.759201
+              ]
+            },
+            {
+              "name": "",
+              "instruction": "به مسیر خود ادامه دهید",
+              "bearing_after": 11,
+              "type": "exit roundabout",
+              "modifier": "straight",
+              "exit": 1,
+              "distance": {
+                "value": 171.0,
+                "text": "۱۷۵ متر"
+              },
+              "duration": {
+                "value": 27.0,
+                "text": "کمتر از ۱ دقیقه"
+              },
+              "polyline": "apgyE}|oyHoB[_@I[GYE]Mk@]SM",
+              "start_location": [
+                51.532474,
+                35.760806
+              ]
+            },
+            {
+              "name": "گلستان (جاده شهرک امید)",
+              "instruction": "در مقصد قرار دارید",
+              "bearing_after": 0,
+              "type": "arrive",
+              "distance": {
+                "value": 1.0,
+                "text": "۱ متر"
+              },
+              "duration": {
+                "value": 0.0,
+                "text": ""
+              },
+              "polyline": "eygyEk`pyH",
+              "start_location": [
+                51.533025,
+                35.762273
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

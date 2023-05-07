@@ -1,0 +1,52 @@
+{
+  "coord": {
+    "lon": 51.4215,
+    "lat": 35.6944
+  },
+  "weather": [
+    {
+      "id": 601,
+      "main": "Snow",
+      "description": "snow",
+      "icon": "13n"
+    },
+    {
+      "id": 701,
+      "main": "Mist",
+      "description": "mist",
+      "icon": "50n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 272,
+    "feels_like": 269.28,
+    "temp_min": 271.88,
+    "temp_max": 272.14,
+    "pressure": 1019,
+    "humidity": 100
+  },
+  "visibility": 1000,
+  "wind": {
+    "speed": 2.06,
+    "deg": 300
+  },
+  "snow": {
+    "1h": 0.3
+  },
+  "clouds": {
+    "all": 100
+  },
+  "dt": 1676231761,
+  "sys": {
+    "type": 2,
+    "id": 47737,
+    "country": "IR",
+    "sunrise": 1676172309,
+    "sunset": 1676211128
+  },
+  "timezone": 12600,
+  "id": 112931,
+  "name": "Tehran",
+  "cod": 200
+}
